@@ -1,0 +1,30 @@
+_repo: The-Great-Potlatch-Riots_24864
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lang, Allen Kim
+    birthdate: 1928
+    gutenberg_agent_id: '26584'
+    url: http://www.gutenberg.org/2009/agents/26584
+description: Oh, leave it to the bureaucrats and they'll figure out new ways to make
+  you buy more and more ... But there was only one way the poor consumer could rise
+  up in his wrath.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24864'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Consumption (Economics) -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Great Potlatch Riots
+url: http://www.gutenberg.org/ebooks/24864
